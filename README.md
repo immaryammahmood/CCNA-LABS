@@ -1,6 +1,7 @@
 # Cisco CCNA Networking Labs
 
 A collection of Cisco Packet Tracer labs completed as part of my CCNA learning journey. This repository demonstrates practical experience with enterprise networking concepts through real-world network design, configuration, and troubleshooting.
+
 <br>
 
 ## Topics Covered
@@ -22,12 +23,15 @@ A collection of Cisco Packet Tracer labs completed as part of my CCNA learning j
 - WAN Technologies
 - Network Troubleshooting
 ```
+
 <br>
 
 ## Tools
 
 - Cisco Packet Tracer
 - Cisco IOS CLI
+
+  <br>
 
 ## Repository Structure
 
@@ -44,16 +48,22 @@ CCNA-Labs/ITN
 
 - Packet Tracer (.pkt) file
 - Network topology
-- Brief explanation of the concepts covered
+- Brief explanation of the concepts covere
+   
 <br>
+
 ## Purpose
 
 This repository documents my progress while studying for the Cisco Certified Network Associate (CCNA) certification and serves as a portfolio of practical networking skills.
+
 <br>
+
 ## Connect with Me
 
 - **LinkedIn:** [Maryam Mahmood](https://www.linkedin.com/in/maryam-mahmood2811/)
+
 <br>
+
 ## Certifications
 
 View my Cisco and other professional certifications on Credly:
