@@ -58,3 +58,9 @@ This repository documents my progress while studying for the Cisco Certified Net
 ## Connect with Me
 
 - **LinkedIn:** [Maryam Mahmood](https://www.linkedin.com/in/maryam-mahmood2811/)
+
+## Certifications
+
+View my Cisco and other professional certifications on Credly:
+
+🏅 **Credly Profile:** https://www.credly.com/users/your-username
