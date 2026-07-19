@@ -1,4 +1,4 @@
-# Cisco CCNA Networking Labs
+# CCNA Networking Labs
 
 A collection of Cisco Packet Tracer labs completed as part of my CCNA learning journey. This repository demonstrates practical experience with enterprise networking concepts through real-world network design, configuration, and troubleshooting.
 
