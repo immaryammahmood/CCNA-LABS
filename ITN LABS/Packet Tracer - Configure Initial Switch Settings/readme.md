@@ -26,5 +26,9 @@ This lab demonstrates basic switch configuration on Cisco Catalyst 2960 switches
 - **Key Passwords**: Console and enable secret passwords configured for authentication
 - **Configuration**: Saved to NVRAM for persistence
 
+## Topology 
+<img width="547" height="369" alt="image" src="https://github.com/user-attachments/assets/f55136c4-2f44-4344-8609-da8ca77f7ccb" />
+
+
 ## Files
 - `Packet Tracer - Configure Initial Switch Settings.pkt` - Complete lab topology and configuration
