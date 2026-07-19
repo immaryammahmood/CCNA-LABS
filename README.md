@@ -4,7 +4,7 @@ A collection of hands-on Cisco Packet Tracer labs completed as part of my CCNA l
 ## Topics Covered
 
 - Basic Switch & Router Configuration
-- 
+
 ```
 - VLANs and Inter-VLAN Routing
 - Router-on-a-Stick
