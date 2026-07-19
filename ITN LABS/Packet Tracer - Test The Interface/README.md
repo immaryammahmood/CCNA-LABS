@@ -25,6 +25,5 @@ This lab provides a hands-on opportunity to practice these verification techniqu
 
 ##Topology
 
-The topology demonstrate
 <img width="555" height="412" alt="image" src="https://github.com/user-attachments/assets/015ed13d-0a10-4506-a81c-6e4199d8c22f" />
 
