@@ -1,11 +1,11 @@
 # Cisco CCNA Networking Labs
 
 A collection of hands-on Cisco Packet Tracer labs completed as part of my CCNA learning journey. This repository demonstrates practical experience with enterprise networking concepts through real-world network design, configuration, and troubleshooting.
+
 ## Topics Covered
 
-- Basic Switch & Router Configuration
-
 ```
+- Basic Switch & Router Configuration
 - VLANs and Inter-VLAN Routing
 - Router-on-a-Stick
 - Static & Dynamic Routing (OSPF)
@@ -31,8 +31,9 @@ A collection of hands-on Cisco Packet Tracer labs completed as part of my CCNA l
 
 
 CCNA-Labs/ITN
-├── Lab-01-Initial-Switch-Configuration
+
 ```
+├── Lab-01-Initial-Switch-Configuration
 ├── Lab-02-Basic-Router-Configuration
 ├── Lab-03-VLAN-and-Trunking
 ├── Lab-04-Inter-VLAN-Routing
