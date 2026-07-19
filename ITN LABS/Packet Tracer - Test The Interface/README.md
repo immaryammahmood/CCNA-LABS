@@ -22,32 +22,9 @@ In real-world network administration, verification is a critical skill. After yo
 
 This lab provides a hands-on opportunity to practice these verification techniques in a safe, simulated environment using Cisco Packet Tracer.
 
-## What You'll Learn
 
-- How to use CLI commands to verify interface configurations on Cisco networking devices
-- How to interpret the output of `show ip interface brief` to troubleshoot connectivity issues
-- The relationship between device configuration and actual network functionality
-- Basic networking troubleshooting methodology
+##Topology
 
-## File Details
+The topology demonstrate
+<img width="555" height="412" alt="image" src="https://github.com/user-attachments/assets/015ed13d-0a10-4506-a81c-6e4199d8c22f" />
 
-- **File Name:** Packet Tracer - Test The Interface.pkt
-- **Application:** Cisco Packet Tracer
-- **Difficulty Level:** Beginner (ITN - Introduction to Networks course material)
-- **Related Topics:** Basic connectivity, IP addressing, CLI commands, network verification
-
-## How to Use
-
-1. Open the `.pkt` file in Cisco Packet Tracer
-2. Follow the instructions in the lab activity (typically shown in the instruction panel)
-3. Use the CLI on devices to execute the verification commands
-4. Compare your outputs with expected results to validate connectivity
-5. Adjust configurations as needed if issues are discovered
-
-## Prerequisites
-
-- Cisco Packet Tracer installed on your system
-- Basic understanding of IP addressing and network topology
-- Familiarity with CLI navigation on Cisco devices (from previous labs)
-
-This lab reinforces the principle that **verification is part of the configuration process**—understanding how to confirm your work is just as important as knowing how to configure devices.
