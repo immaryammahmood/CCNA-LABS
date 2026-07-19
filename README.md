@@ -33,16 +33,10 @@ A collection of Cisco Packet Tracer labs completed as part of my CCNA learning j
 CCNA-Labs/ITN
 
 ```
-├── Lab-01-Initial-Switch-Configuration
-├── Lab-02-Basic-Router-Configuration
-├── Lab-03-VLAN-and-Trunking
-├── Lab-04-Inter-VLAN-Routing
-├── Lab-05-Static-Routing
-├── Lab-06-OSPF
-├── Lab-07-DHCP
-├── Lab-08-NAT
-├── Lab-09-ACLs
-└── ...
+├── Lab-01-[Configure Initial Switch Settings](https://github.com/immaryammahmood/CCNA-LABS/tree/63bdb375193594b945b3b49ae8a816ae64e58f75/ITN%20LABS/Packet%20Tracer%20-%20Configure%20Initial%20Switch%20Settings)
+├── Lab-02Implement Basic Connectivity
+├── Lab-03-Test The Interface
+
 ```
 
 ## Each Lab Includes
