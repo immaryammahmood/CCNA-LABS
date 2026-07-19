@@ -1,6 +1,7 @@
 # Cisco CCNA Networking Labs
 
 A collection of Cisco Packet Tracer labs completed as part of my CCNA learning journey. This repository demonstrates practical experience with enterprise networking concepts through real-world network design, configuration, and troubleshooting.
+<br>
 
 ## Topics Covered
 
@@ -21,6 +22,7 @@ A collection of Cisco Packet Tracer labs completed as part of my CCNA learning j
 - WAN Technologies
 - Network Troubleshooting
 ```
+<br>
 
 ## Tools
 
@@ -36,22 +38,22 @@ CCNA-Labs/ITN
 - ├── Lab-02 - [Implement Basic Connectivity](https://github.com/immaryammahmood/CCNA-LABS/tree/b3d2ed3a6adcd63bc02f45d8579eb09c3ff5a380/ITN%20LABS/Packet%20Tracer%20-%20Implement%20Basic%20Connectivity)
 - ├── Lab-03 - [Test The Interface](https://github.com/immaryammahmood/CCNA-LABS/tree/b3d2ed3a6adcd63bc02f45d8579eb09c3ff5a380/ITN%20LABS/Packet%20Tracer%20-%20Test%20The%20Interface)
 
-
+<br>
 
 ## Each Lab Includes
 
 - Packet Tracer (.pkt) file
 - Network topology
 - Brief explanation of the concepts covered
-
+<br>
 ## Purpose
 
 This repository documents my progress while studying for the Cisco Certified Network Associate (CCNA) certification and serves as a portfolio of practical networking skills.
-
+<br>
 ## Connect with Me
 
 - **LinkedIn:** [Maryam Mahmood](https://www.linkedin.com/in/maryam-mahmood2811/)
-
+<br>
 ## Certifications
 
 View my Cisco and other professional certifications on Credly:
