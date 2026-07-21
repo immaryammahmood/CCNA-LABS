@@ -2,7 +2,10 @@
 
 ### Overview
 
-This lab focuses on capturing and analyzing **ICMP traffic between a local computer and remote Internet hosts** using Wireshark. The purpose of this analysis is to understand how communication changes when data travels outside the local network.
+Remote ICMP traffic was analyzed by sending ping requests to Internet hosts such as:
+- www.google.com
+- www.cisco.com
+- www.yahoo.com
 
 By sending ping requests to remote websites, the captured packets were analyzed to observe DNS resolution, IP addressing, Ethernet frames, and the role of the default gateway in remote communication.
 
