@@ -41,6 +41,7 @@ CCNA-Labs/ITN
 - ├── Lab-01 - [Configure Initial Switch Settings](https://github.com/immaryammahmood/CCNA-LABS/tree/63bdb375193594b945b3b49ae8a816ae64e58f75/ITN%20LABS/Packet%20Tracer%20-%20Configure%20Initial%20Switch%20Settings)
 - ├── Lab-02 - [Implement Basic Connectivity](https://github.com/immaryammahmood/CCNA-LABS/tree/b3d2ed3a6adcd63bc02f45d8579eb09c3ff5a380/ITN%20LABS/Packet%20Tracer%20-%20Implement%20Basic%20Connectivity)
 - ├── Lab-03 - [Test The Interface](https://github.com/immaryammahmood/CCNA-LABS/tree/b3d2ed3a6adcd63bc02f45d8579eb09c3ff5a380/ITN%20LABS/Packet%20Tracer%20-%20Test%20The%20Interface)
+- ├── Lab-04 - [Network Traffic Analysis](https://github.com/immaryammahmood/CCNA-LABS/tree/e3aefecc51e9b8cdbb8505d41018dbe9fbe07659/ITN%20LABS/Wire%20Shark%20-%20Network%20Traffic%20Analysis)
 
 <br>
 
