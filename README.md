@@ -8,6 +8,7 @@ A collection of Cisco Packet Tracer labs completed as part of my CCNA learning j
 
 ```
 - Basic Switch & Router Configuration
+- Wired & Wireless Connectivity
 - VLANs and Inter-VLAN Routing
 - Router-on-a-Stick
 - Static & Dynamic Routing (OSPF)
