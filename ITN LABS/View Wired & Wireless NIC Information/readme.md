@@ -24,7 +24,6 @@ The activity demonstrates how to view network adapter information, check connect
 | ipconfig /all | Display detailed adapter information |
 | Network Status Settings | Check connectivity and troubleshoot issues |
 
-<br>
 
 <h3>Network Interfaces Examined</h3>
 
@@ -33,23 +32,6 @@ The activity demonstrates how to view network adapter information, check connect
 | Wired NIC (Ethernet) | Provides network connectivity through a physical Ethernet cable |
 | Wireless NIC (Wi-Fi) | Provides wireless connectivity through available Wi-Fi networks |
 
-<br>
-
-<h3>Information Collected</h3>
-
-During the lab, the following NIC information was examined:
-
-| Information | Description |
-|---|---|
-| Adapter Name | Identifies the installed network interface |
-| MAC Address | Unique hardware address assigned to the NIC |
-| IPv4 Address | Logical address assigned to the device |
-| DNS Servers | Servers used for domain name resolution |
-| Connection Speed | Current link speed of the adapter |
-| SSID | Name of the connected wireless network |
-| Security Type | Wireless network protection method |
-
-<br>
 
 <h3>Lab Procedure</h3>
 
