@@ -1,6 +1,6 @@
-# End-to-End Connectivity Testing
+<h1>End-to-End Connectivity Testing</h1>
 
-## Overview
+<h3>Overview</h3>
 
 This lab verifies end-to-end connectivity between two PCs connected through two Cisco Catalyst 2960 switches. Basic switch management is configured, and ICMP echo requests are used to validate communication across the network.
 
