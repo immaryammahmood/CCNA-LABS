@@ -1,6 +1,6 @@
 <h2> Packet Tracer - Configure Initial Router Settings</h2>
 
-## Overview
+<h3> Overview </h3>
 This lab covers basic router configuration tasks including securing CLI and console access, configuring banner messages, and saving running configurations.
 
 ## Objectives
