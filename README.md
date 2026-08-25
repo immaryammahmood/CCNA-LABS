@@ -52,7 +52,7 @@ CCNA-Labs/ITN
 - ├── Lab-12 - [Packet Tracer - Connect a Router to a LAN](https://github.com/immaryammahmood/CCNA-LABS/tree/dac0a0597e353894b39527063470c1233c53e3b8/ITN%20LABS/Packet%20Tracer%20-%20Connect%20a%20Router%20to%20a%20LAN)
 - ├── Lab-13 - [Packet Tracer – Troubleshoot Default Gateway Issues
 ](https://github.com/immaryammahmood/CCNA-LABS/tree/2ff537192a64efdee7dfbca6a5f93c0041d13dd8/ITN%20LABS/Packet%20Tracer%20%E2%80%93%20Troubleshoot%20Default%20Gateway%20Issues)
-
+- ├── Lab-14 - [IPv6 Neighbor Discovery](https://github.com/immaryammahmood/CCNA-LABS/tree/17c10737210cf370d28f1a958b29e23fdb2e18ea/ITN%20LABS/Packet%20Tracer%20-%20IPv6%20Neighbor%20Discovery)
 
 
 
