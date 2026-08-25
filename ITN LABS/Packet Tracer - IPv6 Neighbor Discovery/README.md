@@ -1,10 +1,10 @@
 # Packet Tracer - IPv6 Neighbor Discovery
 
-## Overview
+### Overview
 
 This lab explores the IPv6 Neighbor Discovery (ND) process and how devices use the NDP (Neighbor Discovery Protocol) to determine MAC addresses of destination devices on local and remote networks. Understanding ND is critical for IPv6 communication, as it performs the same essential function as ARP in IPv4 networks.
 
-## Learning Objectives
+### Learning Objectives
 
 - Understand how IPv6 Neighbor Discovery works on local networks
 - Observe and analyze NDP (Neighbor Discovery Protocol) messages in Packet Tracer simulation mode
@@ -12,7 +12,7 @@ This lab explores the IPv6 Neighbor Discovery (ND) process and how devices use t
 - Analyze router involvement in multi-LAN IPv6 communication
 - Examine router neighbor tables and MAC address learning
 
-## Network Topology
+### Network Topology
 
 ### Addressing Table
 
@@ -30,7 +30,7 @@ This lab explores the IPv6 Neighbor Discovery (ND) process and how devices use t
 - **Network 2 (2001:db8:acad:2::/64)**: RTA G0/0/1, PCB1
 - **Router**: RTA (connects both LANs)
 
-## Lab Structure
+### Lab Structure
 
 ### Part 1: IPv6 Neighbor Discovery - Local Network
 
@@ -113,60 +113,4 @@ show ipv6 neighbors [addr] # Show specific neighbor entry
 ping -n 1 <ipv6-address>   # Send single ping to IPv6 address
 ```
 
-### Simulation Controls
 
-- **Play (Hands Free)**: Auto-play captured events
-- **View Previous Events**: Access event buffer when full
-- **Reset Simulation**: Clear all captured events
-- **Next Layer >>**: Navigate through PDU layer details
-
-## Expected Outcomes
-
-### Part 1 - Local Network
-- Observe direct ND between PCA1 and PCA2
-- See multicast MAC addresses in use
-- Notice ND cached on second ping (no NDP events)
-- Router not required for local communication
-
-### Part 2 - Remote Network
-- See router involvement as intermediate hop
-- Observe separate ND processes on each interface
-- Notice additional link-local address resolution
-- Router's neighbor table updated for both networks
-- Second ping uses cached entries (no NDP events)
-
-## Lab Completion Checklist
-
-- [ ] Part 1 - Local ND observations completed
-- [ ] Part 1 - Questions answered
-- [ ] Part 2 - Remote ND observations completed
-- [ ] Part 2 - Questions answered
-- [ ] Router neighbor table examined
-- [ ] Reflection questions completed
-
-## Reflection Questions Topics
-
-1. When does IPv6 ND become necessary?
-2. How do routers optimize ND traffic?
-3. IPv6 ND impact minimization strategies
-4. Comparison of ND behavior (same LAN vs. remote LAN)
-
-## Notes
-
-- **No Scoring**: This Packet Tracer activity has no scoring component
-- **Simulation Mode Required**: Must use simulation mode to capture ND events
-- **Time Management**: Allow sufficient time for Play (Hands Free) to complete
-- **Buffer Management**: May need to view previous events if buffer fills
-
-## Cisco Netacad
-
-© 2019 - 2026 Cisco and/or its affiliates. All rights reserved. Cisco Public
-
-**Source**: Cisco Networking Academy - Introduction to Networks (ITN)
-
----
-
-**Last Updated**: 2026  
-**Lab Type**: Packet Tracer Simulation  
-**Difficulty**: Intermediate  
-**Estimated Time**: 45-60 minutes
