@@ -50,6 +50,8 @@ CCNA-Labs/ITN
 - ├── Lab-09 - [View Network Device MAC Addresses](https://github.com/immaryammahmood/CCNA-LABS/tree/f8030e7215cf7c0c989ca8261d3cdc61da385afe/ITN%20LABS/View%20Network%20Device%20MAC%20Addresses)
 - ├── Lab-10 - [Packet Tracer - Configure Initial Router Settings](https://github.com/immaryammahmood/CCNA-LABS/tree/dac0a0597e353894b39527063470c1233c53e3b8/ITN%20LABS/Packet%20Tracer%20-%20Configure%20Initial%20Router%20Settings)
 - ├── Lab-12 - [Packet Tracer - Connect a Router to a LAN](https://github.com/immaryammahmood/CCNA-LABS/tree/dac0a0597e353894b39527063470c1233c53e3b8/ITN%20LABS/Packet%20Tracer%20-%20Connect%20a%20Router%20to%20a%20LAN)
+- ├── Lab-13 - [Packet Tracer – Troubleshoot Default Gateway Issues
+](https://github.com/immaryammahmood/CCNA-LABS/tree/2ff537192a64efdee7dfbca6a5f93c0041d13dd8/ITN%20LABS/Packet%20Tracer%20%E2%80%93%20Troubleshoot%20Default%20Gateway%20Issues)
 
 
 
