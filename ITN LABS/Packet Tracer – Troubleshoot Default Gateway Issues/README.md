@@ -1,10 +1,10 @@
 # Packet Tracer – Troubleshoot Default Gateway Issues
 
-## Overview
+### Overview
 
 This Cisco Packet Tracer lab focuses on troubleshooting connectivity problems caused by incorrect or missing default gateway configurations. The activity follows a systematic troubleshooting methodology: verify network documentation, isolate problems, determine solutions, implement changes, verify connectivity, and document the results.
 
-## Objectives
+### Objectives
 
 - Verify network documentation and identify connectivity issues.
 - Complete the missing default gateway information.
@@ -14,7 +14,7 @@ This Cisco Packet Tracer lab focuses on troubleshooting connectivity problems ca
 - Verify that connectivity issues have been resolved.
 - Document the troubleshooting process.
 
-## Network Addressing
+### Network Addressing
 
 | Device | Interface | IP Address     | Subnet Mask     | Default Gateway |
 |--------|-----------|----------------|-----------------|-----------------|
@@ -27,7 +27,7 @@ This Cisco Packet Tracer lab focuses on troubleshooting connectivity problems ca
 | PC3    | NIC       | 192.168.11.10  | 255.255.255.0   | —               |
 | PC4    | NIC       | 192.168.11.11  | 255.255.255.0   | —               |
 
-## Troubleshooting Methodology
+### Troubleshooting Methodology
 
 The lab uses a structured troubleshooting approach:
 
@@ -39,7 +39,7 @@ The lab uses a structured troubleshooting approach:
 6. Retest connectivity.
 7. Document the results.
 
-## Key Concepts
+### Key Concepts
 
 ### Default Gateway
 
@@ -50,7 +50,7 @@ For this topology:
 - **Devices on 192.168.10.0/24** use **192.168.10.1** as their default gateway.
 - **Devices on 192.168.11.0/24** use **192.168.11.1** as their default gateway.
 
-## Troubleshooting Commands
+### Troubleshooting Commands
 
 The following commands can be used during the troubleshooting process:
 
@@ -70,7 +70,7 @@ ping 192.168.10.1
 ping 192.168.11.11
 ```
 
-## Troubleshooting Approach
+### Troubleshooting Approach
 
 The lab begins by checking local connectivity before testing communication between different networks. This helps isolate local problems before investigating remote connectivity.
 
@@ -78,7 +78,7 @@ For example, if PC1 cannot communicate with PC2, both devices are on the same ne
 
 After local connectivity is confirmed, end-to-end tests can be performed between devices on different networks, such as PC1 and PC4.
 
-## Verification
+### Verification
 
 After implementing each identified solution:
 
